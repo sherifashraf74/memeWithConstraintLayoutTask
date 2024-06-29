@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MemeAppWithConstraint</string>
+    <string name="meme_headline">Meme Task</string>
+    <string name="my_name">Sherif Ashraf Ali</string>
+    <string name="track_name">Android Developer</string>
+    <string name="content_description1">first image</string>
+    <string name="content_description2">second image</string>
+</resources>
